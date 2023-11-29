@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "module": "CommonJS",
+    "jsx": "react",
+    "paths": {
+      "@services/*": ["src/services/*"],
+      "@routes/*": ["src/routes/*"],
+      "@utils/*": ["src/utils/*"],
+      "@constants": ["src/redux/constants"],
+      "@actions": ["src/redux/actions"],
+      "@selectors": ["src/redux/selectors"],
+      "@hooks": ["src/hooks"],
+      "@screens": ["src/screens"],
+      "@components": ["src/components"],
+      "@styles/*": ["src/styles/*"],
+      "@assets/*": ["src/assets/*"],
+      "@env": ["node_modules/react-native-dotenv"]
+    }
+  },
+  "include": ["*", "src/**/*.js", "e2e/**/*.js"],
+  "exclude": [
+    "android",
+    "artifacts",
+    "idb*/**/*",
+    "ios",
+    "node_modules",
+    "patches",
+    "scripts"
+  ]
+}

@@ -1,0 +1,19 @@
+export const PRIMARY_LIGHT_COLOR = "#BBDEFD";
+export const PRIMARY_COLOR = "#1975D8";
+export const PRIMARY_DARK_COLOR = "#1246A7";
+export const ACCENT_COLOR = "#023E6E";
+export const CONFIRM_COLOR = "#32A74C";
+export const LIGHT_GRAY_COLOR = "rgba(51, 51, 51, 0.2)";
+export const SUBTITLE_GRAY_COLOR = "rgba(51, 51, 51, 0.5)";
+export const SUBTITLE_STRONG_GRAY_COLOR = "rgba(51, 51, 51, 0.75)";
+export const WARNING_COLOR = "#B45454";
+export const STAR_COLOR = "#3D9220";
+export const STAR_COLOR_YELLOW = "#C1B012";
+export const LIGHT_BLUE_BACKGROUND = "#E3F2FE";
+export const MORE_INFO_COLOR = "#1E8738";
+export const LIGHT_BLUE_TRANSPARENT_COLOR = "#8FCAFD";
+export const TEXT_BUTTON_FONT_COLOR = "#6750A4";
+export const TITLE_FONT_COLOR = "rgba(51, 51, 51, 0.9)";
+export const APP_BACKGROUND_COLOR = "#F7F7F7";
+
+export const LINKEDIN_COLOR = "#0077B7";

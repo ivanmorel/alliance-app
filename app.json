@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Alliance Sales",
+    "owner": "osralliance",
+    "scheme": "alliance",
+    "icon": "./src/assets/app-icon.png",
+    "version": "2.5.3",
+    "runtimeVersion": "8",
+    "slug": "osr-alliance",
+    "jsEngine": "hermes",
+    "ios": {
+      "buildNumber": "17"
+    },
+    "android": {
+      "versionCode": 17,
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b8f7c764-7b57-436e-aee3-cf294a830223"
+      }
+    }
+  }
+}
